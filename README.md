@@ -9,7 +9,7 @@
 ### Project Overview
 ---
 
-This data analysis project aims provide insight into the sales performance of a pizza company over the past months.To analyze pizza sales data and generate insights on sales trends,customer preferences, and operational efficiency. The goal is to provide actionable recommendations for increasing revenue, optimizing inventory, and improving customer satisfaction.
+This data analysis project aims provide insight into the sales performance of a pizza company over the past months.It analyzes pizza sales data and generate insights on sales trends,customer preferences, and operational efficiency. The goal is to provide actionable recommendations for increasing revenue, optimizing inventory, and improving customer satisfaction.
 
 ![Screenshot (1)](https://github.com/user-attachments/assets/cc3715ba-6a95-49a4-84b2-c9fb048339f1)
 
