@@ -17,12 +17,15 @@ This data analysis project aims provide insight into the sales performance of a 
 
 ### Data Sources
 
-Sales Data:The primary dataset use for this analysis is a "pizza_sales_csv file", containing detailed information of each sales made by the company.
+Sales Data:The primary dataset use for this analysis is a "pizza_sales_csv file", containing detailed information about:
+
+- 1 Year of sales data(January 2015- December 2015)
+- Sales figures,revenue and customer demographics
+ 
 
 ### Tools
 
 - Excel - Data Cleaning
-  - [Download here](hptts.//microsoft.com)
 - Tableau - Creating reports and visualizations
 
 ###  Data Cleaning/Preparation 
@@ -38,12 +41,8 @@ EDA involved exploring the sales trends
 
 - What is the overall sales trend?
 - Which are the top best sellers? 
-- Which are the top worst selers?
+- Which are the top worst sellers?
 - What are the peak sales periods?
-
-### Data Analysis
-
-Include some intersting code/features
 
 
 ### Results/Findings
