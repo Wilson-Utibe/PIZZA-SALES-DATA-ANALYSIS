@@ -28,9 +28,9 @@ Sales Data:The primary dataset use for this analysis is a "pizza_sales_csv file"
 ###  Data Cleaning/Preparation 
 
 In the inital preparation we performed the following tasks:
- 1.Data loading and inspection.
- 2.Handling missing values.
- 3.Data cleaning and formatting.
+1. Data loading and inspection.
+2. Handling missing values.
+3. Data cleaning and formatting.
 
 ### Exploratory Data Analysis
 
